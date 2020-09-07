@@ -1,7 +1,7 @@
 # Simulating and Optimizating a London-Birmingham section of the high-speed line
 Simulating and Optimizing (train traffic) London-Birmingham section of the high-speed line as per below given problem statement.
 
-# Problem descrition
+# Problem Descrition
   A high-speed train as planned for the HS2 line from London to Birmingham has an acceleration of 0.72m/s^2, about the same as a commuter train. While the trains can brake in an emergency at 2.5m/s^2, the energy optimal deceleration (using regenerative braking) is 0.36m/s^2.
   
   The maximum travelling speed of the train is about 300km/h (83.3m/s). Accelerating from 0 to the maximum speed takes therefore 115.7s during which time the train travels about 4,820m. Slow decelerating takes 231.4s and the distance travelled is 9,640m.
