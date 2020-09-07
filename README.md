@@ -16,12 +16,19 @@ Simulating and Optimizing (train traffic) London-Birmingham section of the high-
   Depending on the number of signalling blocks simulate the throughput of trains. Take into account that between Birmingham Interchange and Birmingham Curzon street as well as between London Old Oak Common and London Euston there will be a practical speed limit and the traveling times are 5 min between London Euston and London Old Oak Common (one signalling block) and 9 min between Birhigham Interchange and Birmingham Curzon Street station (two signalling blocks). Take into account the variability of achievable speeds due to wind and weather conditions on the stretch between London Old Oak Common and Birmingham Interchange. Take into account the variability in stop times, i.e. minor delays due to passenger movements.
   
 London Euston
+
  5 min
+ 
 London Old Oak Common
+
  31 min
+ 
 Birmingham Interchange
+
  9 min
+ 
 Birmingham Curzon Street 
+
 
   The distance between London Old Oak Common Station and Birmingham Interchange Station is 145km. This could be broken down in up-to 14 blocks. If there are less but longer blocks the trains could achieve in theory a higher average speed, however the throughput in trains per
 hour is smaller.
